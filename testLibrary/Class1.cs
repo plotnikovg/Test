@@ -1,5 +1,6 @@
 ﻿namespace testLibrary;
 
-public class Class1
+public class Animal
 {
+    private int Age { get; set; }
 }
